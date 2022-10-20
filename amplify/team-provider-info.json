@@ -10,6 +10,11 @@
       "StackName": "amplify-amplifyuiumezaki-dev-162116",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:076996755629:stack/amplify-amplifyuiumezaki-dev-162116/c97bb060-5047-11ed-b343-062f9c303abd",
       "AmplifyAppId": "d2fwnqoyfyzx20"
+    },
+    "categories": {
+      "auth": {
+        "amplifyuiumezaki55687bc3": {}
+      }
     }
   }
 }
